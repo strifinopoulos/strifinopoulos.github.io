@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: MIT-logo.png
+        filename: IAIFI-logo.svg
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
