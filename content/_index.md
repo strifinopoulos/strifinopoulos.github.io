@@ -73,7 +73,7 @@ sections:
         - title: PostDoc
           company: SISSA
           company_url: ''
-          company_logo: SISSA-log
+          company_logo: SISSA-logo
           location: Trieste, Italy
           date_start: '2020-10-01'
           date_end: '2022-05-31'
