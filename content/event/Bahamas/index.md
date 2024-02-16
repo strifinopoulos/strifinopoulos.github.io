@@ -12,7 +12,7 @@ location: University of The Bahamas
 #   postcode: '94305'
 #   country: United States
 
-summary: PTA gravitational waves and James Webb early galaxies: from Primordial Black Holes to Axion Clusters
+summary: 'PTA gravitational waves and James Webb early galaxies: from Primordial Black Holes to Axion Clusters'
 abstract: 'Recent observations have granted to us two unique insights into the early universe: the presence of a low-frequency stochastic gravitational wave background detected by the NANOGrav and Pulsar Timing Array (PTA) experiments and the emergence of unusually massive galaxy candidates at high redshifts reported by the James Webb Space Telescope (JWST). In this talk, I will consider the possibility that both observations have a common origin. First, I will scrutinize primordial black holes (PBHs) in the mass range between $10^6$ and $10^13$ solar masses. While superheavy PBHs act as seeds of accelerated galaxy formation capable of explaining the JWST extreme galaxies, they can also form binary mergers that source gravitational waves which can be potentially identified as the PTA signal. The analysis is performed taking into account the constraints on the relevant region of the PBH parameter space including the novel bound imposed by the so-called Ultraviolet Luminosity Function (UV LF) of galaxies observed by the Hubble Space Telescope. Then, I will discuss minicluster seeds in the initial axion density field due to the decay of the axion string network in the post-inflationary scenario. For axions heavier than $10^{−25}$ eV, the resulting clusters have a significant impact on large-scale structure, which is also strictly constrained by the UV LF.'
 
 # Talk start and end times.
