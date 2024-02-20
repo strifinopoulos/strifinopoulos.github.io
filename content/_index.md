@@ -144,7 +144,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Engagement
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -173,7 +173,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: ''
+      text: 'If you have any questions, send me a message at:'
       # Contact (add or remove contact options as necessary)
       email: trifinos@emit.edu
       address:
@@ -186,14 +186,14 @@ sections:
 
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---

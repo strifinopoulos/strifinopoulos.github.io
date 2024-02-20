@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,15 @@ organizations:
     url: https://www.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a theoretical physicist looking for phenomena unexplained by the Standard Model of particle physics and the ΛCDM model of Big Bang cosmology. I utilize a broad range of tools, from traditional model building in Quantum Field Theory to modern methods from Machine Learning and Quantum Information Theory.
+bio: 
+  - I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the ΛCDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
-  - Beyond the Standard Model Physics (flavour, naturaleness, dark matter)
-  - New Physics discovery at future experiments (colliders, nuclear facilities, cosmological probes)
-  - Explainable Artificial Intelligence
+  - 'Beyond the Standard Model: flavour, naturaleness, dark matter'
+  - 'Beyond the ΛCDM: primordial black holes, axion miniclusters'
+  - 'New Physics discovery at future experiments (particle colliders, nuclear facilities, cosmological probes)'
+  - Explainable Neural Networks for Physics applications
 
 # Education to show in About widget
 education:
@@ -113,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/trifinopoulos-CV.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
