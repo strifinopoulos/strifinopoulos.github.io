@@ -119,5 +119,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-'I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the &Lambda CDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.'
-<!---
+I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the &Lambda;CDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.
