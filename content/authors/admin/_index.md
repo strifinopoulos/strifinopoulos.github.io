@@ -28,10 +28,10 @@ organizations:
 bio: 'Fundamental Physics at the intersection of Quantum Field Theory and Artificial Intelligence.'
 
 # Interests to show in About widget
-interests:
+interests: 
   - 'Beyond the Standard Model: flavour, naturaleness, dark matter.'
-  - 'Beyond the ΛCDM: primordial black holes, axion miniclusters, modified cosmologies.'
-  - 'New Physics discovery at experiments: future colliders, nuclear facilities, cosmological probes.'
+  - 'Beyond the ΛCDM: primordial black holes, modified large scale structure.'
+  - 'Phenomenology at: future colliders (Electron-Ion Collider, Muon Collider), nuclear facilities (ITER), cosmological probes (James-Webb Telescope, gravitational wave experiments).'
   - 'Interpretable Artificial Intelligence for (Nuclear) Physics applications.'
 
 # Education to show in About widget
@@ -119,4 +119,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the &Lambda;CDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.
+I am a theoretical physicist exploring the boundaries of the Standard Model of particle physics and the Lambda cold dark matter model of cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.
