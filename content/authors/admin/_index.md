@@ -25,8 +25,7 @@ organizations:
     url: https://www.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-  - 'I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the &Lambda CDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.'
+bio: 'I am a theoretical physicist who focuses on phenomena outside the scope of the Standard Model of particle physics and the &Lambda CDM model of Big Bang cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.'
 
 # Interests to show in About widget
 interests:
