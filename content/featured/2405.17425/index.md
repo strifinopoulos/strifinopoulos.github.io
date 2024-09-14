@@ -14,4 +14,4 @@ image:
   focal_point: Smart
 
 url_pdf: 'https://arxiv.org/pdf/2405.17425'
-
+---
