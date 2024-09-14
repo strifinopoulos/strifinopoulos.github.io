@@ -65,12 +65,12 @@ sections:
   #   design:
   #     columns: '2'
   - block: portfolio
-    id: projects
+    id: featured
     content:
       title: Featured Publications
       filters:
         folders:
-          - project
+          - featured
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -126,16 +126,16 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
