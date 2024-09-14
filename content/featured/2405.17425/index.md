@@ -10,7 +10,7 @@ date: '2024-05-27T00:00:00Z'
 external_link: 'https://arxiv.org/abs/2405.17425'
 
 image:
-  caption: 
+  caption: Artistic interpretation of NuCLR
   focal_point: Smart
 
 url_pdf: 'https://arxiv.org/pdf/2405.17425'
