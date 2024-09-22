@@ -9,7 +9,6 @@ main:
     weight: 10
   - name: Publications
     url: '#featured'
-    font_size: L
     weight: 20
   - name: Engagement
     url: '#posts'
