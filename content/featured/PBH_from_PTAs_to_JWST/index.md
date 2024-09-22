@@ -1,6 +1,6 @@
 ---
 title: 'Scrutinizing the primordial black hole interpretation of PTA gravitational waves and JWST early galaxies'
-summary: 
+summary: Yann Gouttenoire(Tel Aviv U.), Sokratis Trifinopoulos(MIT, Cambridge, CTP), Georgios Valogiannis(Harvard U.), Miguel Vanvlasselaer(Brussels U., IIHE) (Jul 3, 2023)
 
 tags:
   - Cosmo

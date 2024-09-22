@@ -4,13 +4,13 @@ summary:
 
 tags:
   - ML
-date: '2023-01-09T00:00:00Z'
+date: '2023-06-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://arxiv.org/abs/2306.06099'
 
 image:
-  caption: Artistic interpretation of NuCLR
+  caption: NuCLR predictions
   focal_point: Smart
 
 url_pdf: 'https://arxiv.org/pdf/2306.06099'
