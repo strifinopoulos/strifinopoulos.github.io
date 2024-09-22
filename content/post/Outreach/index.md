@@ -1,5 +1,5 @@
 ---
-title: 'Museum of Science'
+title: 
 subtitle: 
 
 # Summary for listings and search engines
@@ -18,9 +18,7 @@ image:
   preview_only: false
 
 
-{{< tweet user="iaifi_news" id="1695062405926064369" >}}
-![Image alt](images/Outreach1.jpg)
-![Image alt](images/Outreach2.jpg)
+
 
 ```
 
