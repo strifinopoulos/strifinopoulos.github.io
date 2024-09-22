@@ -1,7 +1,7 @@
 ---
 title: 'Spontaneous symmetry breaking, gauge hierarchy and electroweak vacuum
 metastability'
-summary: 
+summary: 'We derive a new metastability bound for the Higgs mass parameter. When the bound for the positive mass parameter is significantly more restrictive than or comparable to its counterpart for the negative, it may offer an explanation for the spontaneous symmetry breaking itself.'
 
 tags:
   - NP

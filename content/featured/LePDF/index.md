@@ -1,6 +1,6 @@
 ---
 title: 'LePDF: Standard Model PDFs for high-energy lepton colliders'
-summary: 
+summary: The emission of collinear radiation off an elementary lepton can be factorised from the hard scattering process by introducing Parton Distribution Functions of a Lepton (LePDF), which, contrary to protons, can be derived from first principles. In case of multi-TeV lepton colliders, such as the muon colliders currently being proposed, the complete structure of Standard Model interactions must be taken into account.
 
 tags:
   - NP

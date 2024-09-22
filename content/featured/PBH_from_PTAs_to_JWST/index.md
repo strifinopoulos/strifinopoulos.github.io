@@ -1,6 +1,6 @@
 ---
 title: 'Scrutinizing the primordial black hole interpretation of PTA gravitational waves and JWST early galaxies'
-summary: Yann Gouttenoire(Tel Aviv U.), Sokratis Trifinopoulos(MIT, Cambridge, CTP), Georgios Valogiannis(Harvard U.), Miguel Vanvlasselaer(Brussels U., IIHE) (Jul 3, 2023)
+summary: 'Recent observations have granted to us two unique insights into the early Universe: the presence of a low-frequency stochastic gravitational wave background detected by the NANOGrav and Pulsar Timing Array (PTA) experiments and the emergence of unusually massive galaxy candidates at high redshifts reported by the James Webb Space Telescope (JWST). In this paper, we consider the possibility that both observations have a common origin, namely primordial black holes (PBHs)'
 
 tags:
   - Cosmo
