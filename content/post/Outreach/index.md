@@ -3,7 +3,7 @@ title: 'Museum of Science'
 subtitle: 
 
 # Summary for listings and search engines
-summary: {{< tweet user="iaifi_news" id="1695062405926064369" >}}
+summary: Event at {{< tweet user="iaifi_news" id="1695062405926064369" >}}
 # ![Image alt](images/Outreach1.jpg)
 # ![Image alt](images/Outreach2.jpg)
 
