@@ -67,7 +67,7 @@ sections:
   - block: portfolio
     id: featured
     content:
-      title: Featured Publications
+      title: Recent Publications
       filters:
         folders:
           - featured
