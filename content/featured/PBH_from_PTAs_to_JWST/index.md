@@ -4,7 +4,7 @@ summary: 'Recent observations have granted to us two unique insights into the ea
 
 tags:
   - Cosmo
-date: '2024-06-03T00:00:00Z'
+date: '2023-06-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://arxiv.org/abs/2307.01457'
