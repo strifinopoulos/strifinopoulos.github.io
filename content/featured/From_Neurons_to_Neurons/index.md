@@ -3,7 +3,7 @@ title: 'From Neurons to Neutrons: A Case Study in Interpretability'
 summary: Mechanistic Interpretability promises a path toward fully understanding how neural networks make their predictions. We argue that neural networks can learn low-dimensional representations of their training data that are surprisingly faithful to human-derived domain knowledge. A case study, we extract nuclear physics concepts by studying models trained to reproduce nuclear data.
 
 tags:
-  - NP
+  - ML
 date: '2024-03-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
