@@ -4,7 +4,7 @@ summary: The emission of collinear radiation off an elementary lepton can be fac
 
 tags:
   - NP
-date: '2023-09-18T00:00:00Z'
+date: '2023-03-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://arxiv.org/abs/2303.16964'
