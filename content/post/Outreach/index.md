@@ -1,6 +1,6 @@
 ---
 title: 'Outreach with IAIFI'
-subtitle: Boston Museum of Science & Cambridge Science Festival
+subtitle: 'Boston Museum of Science and Cambridge Science Festival'
 
 # Summary for listings and search engines
 summary: {{< tweet user="iaifi_news" id="1695062405926064369" >}}
