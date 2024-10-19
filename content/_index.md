@@ -174,7 +174,7 @@ sections:
       subtitle:
       text: 'If you have any questions, send me a message at:'
       # Contact (add or remove contact options as necessary)
-      email: trifinos@emit.edu
+      email: trifinos@mit.edu
       address:
         street: 77 Massachusetts Ave, 26-648
         city: Cambridge
