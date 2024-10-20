@@ -14,6 +14,6 @@ image:
 date: '2024-09-17T00:00:00Z'
 ---
 
-{{< figure src="/workspaces/strifinopoulos.github.io/content/post/REYES/featured.jpg" alt="Description" caption="Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI." width="100%" >}}
+{{< figure src="/workspaces/strifinopoulos.github.io/content/post/REYES/featured.jpg" alt="Description" caption="Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent ICML2024 paper at IAIFI." width="200%" >}}
 
 
