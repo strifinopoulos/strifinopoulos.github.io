@@ -7,13 +7,12 @@ summary: I participated as a tutor in UC Berkeley's [REYES program](https://iaif
         I also had the talk about the [interplay between physics and AI](https://www.youtube.com/watch?v=VI30D2jOhC4&t=1828s).
 image:
   caption: Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI.
-  # focal_point: Smart
+  focal_point: Right
 
 
 # Date published
 date: '2024-09-17T00:00:00Z'
 ---
 
-{{< figure src="/workspaces/strifinopoulos.github.io/content/post/REYES/featured.jpg" alt="Description" caption="Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent ICML2024 paper at IAIFI." width="200%" >}}
 
 
