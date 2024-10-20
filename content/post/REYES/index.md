@@ -9,7 +9,6 @@ image:
   caption: Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI.
   # focal_point: Smart
 
-{{ $image := $image.Process "resize 600x" }}
 
 # Date published
 date: '2024-09-17T00:00:00Z'
