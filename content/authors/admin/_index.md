@@ -105,7 +105,7 @@ social:
     link: https://inspirehep.net/authors/1778841
   - icon: github
     icon_pack: fab
-    link: https://github.com/trifinos
+    link: https://github.com/strifinopoulos
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/sokratis-trifinopoulos-827928117
