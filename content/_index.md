@@ -68,6 +68,7 @@ sections:
     id: featured
     content:
       title: Recent Publications
+      subtitle: For a complete list of publications see my [Inspire page](https://inspirehep.net/authors/1778841?ui-citation-summary=true).
       filters:
         folders:
           - featured
