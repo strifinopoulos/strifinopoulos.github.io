@@ -19,7 +19,9 @@ The Remote Experience for Young Engineers and Scientists (REYES) virtual STEM-H 
 
 I have worked as a mentor, selecting 8 exceptional undergraduates, which led various research lines over the course of 8 weeks. Many students have kept up the momentum by continuing to work on the projects, even beyond the formal REYES duration, highlighting their ongoing commitment. 
 
-{{ $image := .Resources.Get "Sam_ICML.jpg" }}
+<!-- {{ $image := .Resources.Get "Sam_ICML.jpg" }} -->
   <!-- {{</* video src="my_video.mp4" controls="yes" */>}}
 
   Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI. -->
+
+{{< icon name="Sam_ICML.jpg" >}}
