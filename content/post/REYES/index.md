@@ -24,6 +24,7 @@ I have worked as a mentor, selecting 8 exceptional undergraduates, which led var
 
   Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI. -->
 
-{{ $image := .Resources.GetMatch "images/Sam_ICML.jpg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ ($.Page.Resources.GetMatch (.Get 0)).RelPermalink }}
+
+![]({{< file "Sam_ICML.jpg" >}})
 
