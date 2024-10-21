@@ -9,15 +9,14 @@ image:
   caption: Together with [Víctor Samuel Pérez-Díaz](https://www.samuelperezdi.com) presenting our recent \#ICML2024 paper at IAIFI.
   focal_point: Right
 
-A
-A
-
-{{< figure src="/workspaces/strifinopoulos.github.io/content/post/REYES/featured.jpg" alt="Description" caption="REYES" width="100%" >}}
-
 
 # Date published
 date: '2024-09-17T00:00:00Z'
 ---
 
 
+A
+A
+
+{{< figure src="/workspaces/strifinopoulos.github.io/content/post/REYES/featured.jpg" alt="Description" caption="REYES" width="100%" >}}
 
