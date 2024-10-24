@@ -40,8 +40,8 @@ education:
     - course: PhD in Theoretical Physics
       institution: University of Zürich
       year: 2020
-    - course: ETH Zürich
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Physics
+      institution: ETH Zürich
       year: 2016
     - course: BSc in Physics
       institution: Technical University of Dortmund
