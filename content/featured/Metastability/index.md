@@ -4,7 +4,7 @@ metastability'
 summary: 'We derive a new metastability bound for the Higgs mass parameter. When the bound for the positive mass parameter is significantly more restrictive than or comparable to its counterpart for the negative, it may offer an explanation for the spontaneous symmetry breaking itself.'
 
 tags:
-  - NP
+  - Cosmo
 date: '2024-08-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
