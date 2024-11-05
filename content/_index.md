@@ -164,6 +164,15 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+    buttons:
+      - name: All
+        tag: '*'
+      - name: Engagement
+        tag: Outreach
+      - name: Talks
+        tag: Taks
+      - name: Teaching
+        tag: Teaching
     design:
       # Choose a layout view
       view: compact
