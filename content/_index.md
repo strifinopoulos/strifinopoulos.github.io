@@ -164,6 +164,7 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+    default_button_index: 0
     buttons:
       - name: All
         tag: '*'
