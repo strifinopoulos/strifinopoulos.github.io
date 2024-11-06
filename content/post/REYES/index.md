@@ -10,7 +10,8 @@ image:
   caption: 
   focal_point: Smart
 
-
+tags:
+  - Teaching
 # Date published
 date: '2024-09-17T00:00:00Z'
 ---
