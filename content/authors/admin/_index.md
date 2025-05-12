@@ -32,6 +32,7 @@ interests:
   - 'Beyond the Standard Model: flavour, naturaleness, dark matter.'
   - 'Beyond the ΛCDM: primordial black holes, modified galaxy formation.'
   - 'Phenomenology at/with: future colliders (Electron-Ion Collider, Muon Colliders), nuclear facilities (ITER), cosmological probes (James-Webb Telescope, gravitational wave experiments).'
+  - 'Fusion of Quantum Information theoretic concepts with High-Energy Physics.'
   - 'Interpretable Artificial Intelligence for (Nuclear) Physics applications.'
 
 # Education to show in About widget
