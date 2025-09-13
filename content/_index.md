@@ -198,8 +198,7 @@ sections:
         street: Esplanade des Particules 1
         city: Geneva
         postcode: 1211
-        country: United States
-        country_code: Switzerland
+        country: Switzerland
 
       # Automatically link email and phone or display as text?
       autolink: true
