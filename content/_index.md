@@ -32,12 +32,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PostDoc
+          company: CERN TH
+          company_url: ''
+          company_logo: CERN-logo
+          location: Geneva, Switzerland
+          date_start: '2025-06-01'
+          date_end: ''
+          description: ''
+        - title: PostDoc
           company: MIT, IAIFI
           company_url: ''
           company_logo: MIT-logo
           location: Massachusetts, USA
           date_start: '2022-06-01'
-          date_end: ''
+          date_end: '2025-05-31'
           description: ''
         - title: PostDoc
           company: SISSA
@@ -187,12 +195,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: trifinos@mit.edu
       address:
-        street: 77 Massachusetts Ave, 26-648
-        city: Cambridge
-        region: MA
-        postcode: 02139-4307
+        street: Esplanade des Particules 1
+        city: Geneva
+        postcode: 1211
         country: United States
-        country_code: US
+        country_code: Switzerland
 
       # Automatically link email and phone or display as text?
       autolink: true

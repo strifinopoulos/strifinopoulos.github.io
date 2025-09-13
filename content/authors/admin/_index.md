@@ -21,8 +21,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Massachusetts Institute of Technology
-    url: https://www.mit.edu/
+  - name: CERN 
+    url: https://theory.cern/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Fundamental Physics at the intersection of Quantum Field Theory and Artificial Intelligence.'
@@ -31,9 +31,9 @@ bio: 'Fundamental Physics at the intersection of Quantum Field Theory and Artifi
 interests: 
   - 'Beyond the Standard Model: flavour, naturaleness, dark matter.'
   - 'Beyond the ΛCDM: primordial black holes, modified galaxy formation.'
-  - 'Phenomenology at/with: future colliders (Electron-Ion Collider, Muon Colliders), nuclear facilities (ITER), cosmological probes (James-Webb Telescope, gravitational wave experiments).'
-  - 'Fusion of Quantum Information theoretic concepts with High-Energy Physics.'
-  - 'Interpretable Artificial Intelligence for (Nuclear) Physics applications.'
+  - 'Phenomenology at/with: future colliders, nuclear facilities, cosmological probes.'
+  - 'Fusion of Quantum Information-theoretic concepts with High-Energy Physics.'
+  - 'Interpretable Artificial Intelligence for Physics.'
 
 # Education to show in About widget
 education:
@@ -95,7 +95,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:trifinos@mit.edu'
+    link: 'mailto:sokrati.trifinopoulos@cern.ch'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0492-1144
