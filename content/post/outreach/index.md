@@ -1,5 +1,5 @@
 ---
-title: 'Public outreach with IAIFI'
+title: 'Public outreach in Boston'
 subtitle: Boston Museum of Science and Cambridge Science Festival
 
 # Summary for listings and search engines

@@ -10,7 +10,7 @@ date: '2023-06-09T00:00:00Z'
 external_link: 'https://arxiv.org/abs/2306.06099'
 
 image:
-  caption: NuCLR predictions
+  caption: NuCLR architecture
   focal_point: Smart
 
 url_pdf: 'https://arxiv.org/pdf/2306.06099'

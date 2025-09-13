@@ -1,6 +1,6 @@
 ---
 title: 'Scrutinizing the primordial black hole interpretation of PTA gravitational waves and JWST early galaxies'
-summary: 'Recent observations have granted to us two unique insights into the early Universe: the presence of a low-frequency stochastic gravitational wave background detected by the NANOGrav and Pulsar Timing Array (PTA) experiments and the emergence of unusually massive galaxy candidates at high redshifts reported by the James Webb Space Telescope (JWST). We consider the possibility that both observations have a common origin, namely supermassive primordial black holes.'
+summary: 'Recent observations have granted to us two unique insights into the early Universe: the presence of a low-frequency stochastic gravitational wave background detected by the NANOGrav and Pulsar Timing Array experiments and the emergence of unusually massive galaxy candidates at high redshifts reported by the James Webb Space Telescope. We consider the possibility that both observations have a common origin, namely supermassive primordial black holes.'
 
 tags:
   - Cosmo
