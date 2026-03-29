@@ -16,7 +16,7 @@ tags:
 date: '2026-03-03T00:00:00Z'
 ---
 
-Visiting DESY and giving the [Particle and Astroparticle Physics Colloquium](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/) in Hamburg on March 3, 2026 was a real pleasure. The talk took place in the Auditorium (Bldg 5, DESY Hamburg) and was also available on Zoom. More details are available on the [DESY colloquium page](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/), and the [slides](/uploads/DESY_colloquium_2026_slides.pdf) are also available here.
+Visiting Hamburg and giving the Particle and Astroparticle Physics Colloquium at DESY on March 3, 2026 was a real pleasure.
 
 The abstract of the talk is reproduced below.
 
@@ -25,3 +25,5 @@ The abstract of the talk is reproduced below.
 > In this talk, I trace axions across the vast range of masses and scales they may inhabit: from the ultralight sub-eV regime and the largest cosmological distances, where their interactions with the visible sector are purely gravitational and large-scale structure (LSS) surveys provide the primary probes; through the keV-MeV range, where hadronic interactions become relevant and, intriguingly, discovery may occur at nuclear fusion facilities; to the smallest distances and heavier GeV-TeV axions explored at next-generation lepton-ion colliders.
 >
 > Addressing this extraordinary span of scales demands an equally broad phenomenological toolkit, from effective field theories of LSS to AI-assisted modeling of atomic nuclei. In this context, I reflect on how the exploration of the axiverse reshapes the role of modern phenomenology at the interface of particle, nuclear, and cosmological physics.
+
+The talk took place in the Auditorium (Bldg 5, DESY Hamburg) and was also available on Zoom. More details are available on the [DESY colloquium page](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/), and the slides are also available [here](/uploads/DESY_colloquium_2026_slides.pdf).
