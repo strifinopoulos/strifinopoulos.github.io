@@ -16,6 +16,10 @@ tags:
 date: '2026-03-03T00:00:00Z'
 ---
 
+I was honored to visit DESY and give the [Particle and Astroparticle Physics Colloquium](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/) in Hamburg on March 3, 2026. As announced on the colloquium page, the talk was held in the Auditorium (Bldg 5, DESY Hamburg) and was also available on Zoom.
+
+The abstract of the talk was:
+
 Axions offer a uniquely rich window into physics beyond the Standard Model, linking the solution of the strong CP problem to dark matter and to the broader "axiverse" predicted in many ultraviolet-complete theories.
 
 In this talk, I trace axions across the vast range of masses and scales they may inhabit: from the ultralight sub-eV regime and the largest cosmological distances, where their interactions with the visible sector are purely gravitational and large-scale structure (LSS) surveys provide the primary probes; through the keV-MeV range, where hadronic interactions become relevant and, intriguingly, discovery may occur at nuclear fusion facilities; to the smallest distances and heavier GeV-TeV axions explored at next-generation lepton-ion colliders.
