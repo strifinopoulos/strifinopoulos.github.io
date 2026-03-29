@@ -16,7 +16,7 @@ tags:
 date: '2024-09-17T00:00:00Z'
 ---
 
-The Remote Experience for Young Engineers and Scientists (REYES) virtual STEM-H learning experience aims to increase science literacy, inspire and train the next generation of engineers and scientists. We also help increase diversity in STEM fields by lowering barriers of entry for all, including students from underrepresented backgrounds. To date, more than 11,000 learners in 135 countries have registered for REYES. 
+The Remote Experience for Young Engineers and Scientists (REYES) virtual STEM-H learning experience aims to increase science literacy, inspire and train the next generation of engineers and scientists. To date, more than 11,000 learners in 135 countries have registered for REYES.
 
 I have worked as a mentor, selecting 8 exceptional undergraduates, which led various research lines over the course of 8 weeks. Many students have kept up the momentum by continuing to work on the projects, even beyond the formal REYES duration, highlighting their ongoing commitment. 
 

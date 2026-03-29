@@ -90,12 +90,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Particle Physics
-          tag: NP
+        - name: QI & HEP
+          tag: QI & HEP
+        - name: AI for Physics
+          tag: AI for Physics
+        - name: Phenomenology
+          tag: Phenomenology
         - name: Cosmology
-          tag: Cosmo
-        - name: Deep Learning
-          tag: ML
+          tag: Cosmology
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -179,7 +181,7 @@ sections:
       - name: Engagement
         tag: Outreach
       - name: Talks
-        tag: Taks
+        tag: Talks
       - name: Teaching
         tag: Teaching
     design:

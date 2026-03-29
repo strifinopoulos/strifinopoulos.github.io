@@ -9,6 +9,9 @@ image:
   caption: 
   focal_point: Smart
 
+tags:
+  - Talks
+
 # Date published
 date: '2025-08-13T00:00:00Z'
 ---

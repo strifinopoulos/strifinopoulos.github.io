@@ -3,7 +3,7 @@ title: 'NuCLR: Nuclear Co-Learned Representations'
 summary: We introduce Nuclear Co-Learned Representations (NuCLR), a deep learning model that predicts various nuclear observables, including binding and decay energies, and nuclear charge radii. The model is trained using a multi-task approach with shared representations and obtains state-of-the-art performance, achieving levels of precision that are crucial for understanding fundamental phenomena in nuclear (astro)physics. 
 
 tags:
-  - ML
+  - AI for Physics
 date: '2023-06-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
