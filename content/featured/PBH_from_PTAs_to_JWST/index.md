@@ -3,7 +3,7 @@ title: 'Scrutinizing the primordial black hole interpretation of PTA gravitation
 summary: 'Recent observations have granted to us two unique insights into the early Universe: the presence of a low-frequency stochastic gravitational wave background detected by the NANOGrav and Pulsar Timing Array experiments and the emergence of unusually massive galaxy candidates at high redshifts reported by the James Webb Space Telescope. We consider the possibility that both observations have a common origin, namely supermassive primordial black holes.'
 
 tags:
-  - Cosmology
+  - cosmology
 date: '2023-06-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

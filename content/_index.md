@@ -91,13 +91,13 @@ sections:
         - name: All
           tag: '*'
         - name: QI & HEP
-          tag: QI & HEP
+          tag: qihep
         - name: AI for Physics
-          tag: AI for Physics
+          tag: ai-physics
         - name: Phenomenology
-          tag: Phenomenology
+          tag: phenomenology
         - name: Cosmology
-          tag: Cosmology
+          tag: cosmology
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

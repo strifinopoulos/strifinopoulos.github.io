@@ -16,6 +16,8 @@ tags:
 date: '2026-03-03T00:00:00Z'
 ---
 
-I was honored to give the [DESY colloquium](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/) in Hamburg on March 3, 2026.
+Axions offer a uniquely rich window into physics beyond the Standard Model, linking the solution of the strong CP problem to dark matter and to the broader "axiverse" predicted in many ultraviolet-complete theories.
 
-In the talk, I discussed axions across an enormous range of scales, from large-scale structure and cosmology, to hadronic probes and nuclear fusion facilities, all the way to future lepton-ion colliders. It was a pleasure to share this broad phenomenological perspective on the axiverse with the DESY audience.
+In this talk, I trace axions across the vast range of masses and scales they may inhabit: from the ultralight sub-eV regime and the largest cosmological distances, where their interactions with the visible sector are purely gravitational and large-scale structure (LSS) surveys provide the primary probes; through the keV-MeV range, where hadronic interactions become relevant and, intriguingly, discovery may occur at nuclear fusion facilities; to the smallest distances and heavier GeV-TeV axions explored at next-generation lepton-ion colliders.
+
+Addressing this extraordinary span of scales demands an equally broad phenomenological toolkit, from effective field theories of LSS to AI-assisted modeling of atomic nuclei. In this context, I reflect on how the exploration of the axiverse reshapes the role of modern phenomenology at the interface of particle, nuclear, and cosmological physics.
