@@ -1,6 +1,7 @@
 ---
 title: 'Flavor Patterns of Fundamental Particles from Quantum Entanglement?'
-summary:  We speculate on the (unlikely but tantalizing) possibility that minimization of quantum entanglement might be a fundamental principle that determines particle physics input parameters.
+summary: >-
+  We speculate on the (unlikely but tantalizing) possibility that minimization of quantum entanglement might be a fundamental principle that determines particle physics input parameters. In a specific limit of electroweak-mediated quark scattering, entanglement is minimized when the CKM matrix is almost, but not exactly, diagonal. Applying the same logic to leptons favors a PMNS matrix with two large angles and a smaller one, together with a hint for suppressed CP violation.
 
 tags:
   - qihep
