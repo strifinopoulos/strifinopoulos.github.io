@@ -95,7 +95,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sokrati.trifinopoulos@cern.ch'
+    link: 'mailto:sokratis.trifinopoulos@cern.ch'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0492-1144
