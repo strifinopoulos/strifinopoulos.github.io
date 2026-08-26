@@ -34,7 +34,7 @@ sections:
         - title: Research Associate
           company: Northwestern University
           company_url: 'https://physics.northwestern.edu/'
-          company_logo: Northwestern-logo
+          company_logo: Northwestern-seal
           location: Evanston, Illinois, USA
           date_start: '2026-08-01'
           date_end: ''
