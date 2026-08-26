@@ -29,7 +29,7 @@ bio: 'Fundamental Physics at the intersection of Quantum Field Theory and Artifi
 
 # Interests to show in About widget
 interests: 
-  - 'Beyond the Standard Model: flavour, naturaleness, dark matter.'
+  - 'Beyond the Standard Model: flavour, naturalness, dark matter.'
   - 'Beyond the ΛCDM: primordial black holes, modified galaxy formation.'
   - 'Phenomenology at/with: future colliders, nuclear facilities, cosmological probes.'
   - 'Fusion of Quantum Information-theoretic concepts with High-Energy Physics.'
@@ -120,4 +120,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a theoretical physicist exploring the boundaries of the Standard Model of particle physics and the Lambda cold dark matter model of cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and intepretable Artificial Intelligence.
+I am a theoretical physicist exploring the boundaries of the Standard Model of particle physics and the Lambda cold dark matter model of cosmology. My approach integrates a wide spectrum of methods, ranging from traditional model building in Quantum Field Theory to Quantum Information Theory and interpretable Artificial Intelligence.
