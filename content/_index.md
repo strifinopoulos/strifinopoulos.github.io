@@ -31,13 +31,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PostDoc
+        - title: Research Associate
+          company: Northwestern University
+          company_url: 'https://physics.northwestern.edu/'
+          company_logo: Northwestern-logo
+          location: Evanston, Illinois, USA
+          date_start: '2026-08-01'
+          date_end: ''
+          description: ''
+        - title: Scientific Associate
           company: CERN TH
-          company_url: ''
+          company_url: 'https://theory.cern/'
           company_logo: CERN-logo
           location: Geneva, Switzerland
           date_start: '2025-06-01'
-          date_end: ''
+          date_end: '2026-07-31'
           description: ''
         - title: PostDoc
           company: MIT, IAIFI
@@ -195,12 +203,12 @@ sections:
       subtitle:
       text: 'If you have any questions, send me a message at:'
       # Contact (add or remove contact options as necessary)
-      email: sokratis.trifinopoulos@cern.ch
+      email: sokratis.trifinopoulos@northwestern.edu
       address:
-        street: Esplanade des Particules 1
-        city: Geneva
-        postcode: 1211
-        country: Switzerland
+        street: 2145 Sheridan Road, Tech F165
+        city: Evanston, Illinois
+        postcode: 60208-3112
+        country: USA
 
       # Automatically link email and phone or display as text?
       autolink: true

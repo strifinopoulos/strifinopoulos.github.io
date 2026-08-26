@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CERN 
-    url: https://theory.cern/
+  - name: Northwestern University
+    url: https://physics.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Fundamental Physics at the intersection of Quantum Field Theory and Artificial Intelligence.'
@@ -95,7 +95,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sokratis.trifinopoulos@cern.ch'
+    link: 'mailto:sokratis.trifinopoulos@northwestern.edu'
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0492-1144

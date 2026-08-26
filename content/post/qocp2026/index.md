@@ -3,18 +3,20 @@ title: 'Quantum Observables for Collider Physics 2026'
 subtitle: CERN
 
 # Summary for listings and search engines
-summary: I am delighted to be one of the organizers of [Quantum Observables for Collider Physics 2026](https://indico.cern.ch/event/1603106/), a CERN-TH Institute.
+summary: '[Quantum Observables for Collider Physics 2026](https://indico.cern.ch/event/1603106/) brought the collider and quantum-information communities together at CERN. The [CERN Courier meeting report](https://cerncourier.com/a/all-entangled-around-the-collider/) by Alan Barr and me captures the highlights.'
 
 image:
   caption:
   focal_point: Smart
 
 # Date published
-date: '2026-03-29T00:00:00Z'
+date: '2026-07-23T00:00:00Z'
 ---
 
-I am very happy to be part of a great organizing team for [Quantum Observables for Collider Physics 2026](https://indico.cern.ch/event/1603106/), which will take place at CERN on April 20-24, 2026.
+The third [Quantum Observables for Collider Physics](https://indico.cern.ch/event/1603106/) workshop took place at CERN on April 20-24, 2026, bringing together theorists and experimentalists working on quantum-information observables in collider physics.
 
-We are expecting over 100 participants. To see the agenda, visit the [timetable](https://indico.cern.ch/event/1603106/timetable/).
+The programme spanned entanglement, magic, decoherence, Bell tests and quantum state tomography, with discussions connecting particle physics, quantum information science and nuclear theory. The [full agenda](https://indico.cern.ch/event/1603106/timetable/) remains available on CERN Indico.
 
-The workshop will bring together theorists and experimentalists working on quantum-information observables such as entanglement and magic in collider environments, while also exploring broader connections between particle physics, quantum information science, and nuclear theory. I am looking forward to an exciting week of discussions and new ideas.
+With Alan Barr, I wrote the [CERN Courier meeting report](https://cerncourier.com/a/all-entangled-around-the-collider/), a short account of the workshop's experimental entanglement results, new theoretical directions and future-collider opportunities.
+
+![CERN Courier illustration of an entangled top quark-antiquark pair](cern-courier-feature.jpg)
