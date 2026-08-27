@@ -3,7 +3,7 @@ title: 'Tutoring at IAIFI Summer School 2024'
 subtitle: MIT
 
 # Summary for listings and search engines
-summary: Together with Thomas Harvey, we prepared the tutorial for [Melanie Weber](http://melanie-weber.com/)'s lecture on Representation/Manifold Learning.
+summary: I prepared the tutorial for [Melanie Weber](http://melanie-weber.com/)'s lecture on Representation/Manifold Learning.
 
 image:
   caption: 

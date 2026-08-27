@@ -16,7 +16,7 @@ tags:
 date: '2026-03-03T00:00:00Z'
 ---
 
-Visiting Hamburg and giving the Particle and Astroparticle Physics Colloquium at DESY on March 3, 2026 was a real pleasure.
+I was pleased to visit Hamburg and give the Particle and Astroparticle Physics Colloquium at DESY on March 3, 2026.
 
 The abstract of the talk is reproduced below.
 
@@ -25,5 +25,7 @@ The abstract of the talk is reproduced below.
 > In this talk, I trace axions across the vast range of masses and scales they may inhabit: from the ultralight sub-eV regime and the largest cosmological distances, where their interactions with the visible sector are purely gravitational and large-scale structure (LSS) surveys provide the primary probes; through the keV-MeV range, where hadronic interactions become relevant and, intriguingly, discovery may occur at nuclear fusion facilities; to the smallest distances and heavier GeV-TeV axions explored at next-generation lepton-ion colliders.
 >
 > Addressing this extraordinary span of scales demands an equally broad phenomenological toolkit, from effective field theories of LSS to AI-assisted modeling of atomic nuclei. In this context, I reflect on how the exploration of the axiverse reshapes the role of modern phenomenology at the interface of particle, nuclear, and cosmological physics.
+
+Related papers: [Large-Scale Structure Probes of the Post-Inflationary Axiverse](https://arxiv.org/abs/2511.04734), [Searching for exotic scalars at fusion reactors](https://arxiv.org/abs/2502.12314), and [New Physics at the Muon (Synchrotron) Ion Collider](https://arxiv.org/abs/2412.13289).
 
 The talk took place in the Auditorium (Bldg 5, DESY Hamburg) and was also available on Zoom. More details are available on the [DESY colloquium page](https://physikseminar.desy.de/hamburg/colloquia_in_2026/03_march_2026/), and the slides are also available [here](/uploads/DESY_colloquium_2026_slides.pdf).

@@ -76,12 +76,12 @@
   <div class="ml-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{/* Keep the compact listing visually stable across portrait and landscape artwork. */}}
-      {{ $image := .Fill "150x100 Smart" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+      {{/* Preserve logos and portrait artwork without cropping the compact News thumbnails. */}}
+      {{ $image := .Fit "150x100" }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} class="d-flex align-items-center justify-content-center"
+          style="width: 150px; height: 100px;">
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy">
+            alt="{{ $item.Title }}" loading="lazy" style="max-width: 150px; max-height: 100px;">
       </a>
     {{end}}
   </div>
