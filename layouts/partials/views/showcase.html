@@ -40,15 +40,15 @@
         {{- if $do_link}}</a>{{end -}}
       </div>
 
-      {{ with $summary }}
-      <div class="article-style">
-        {{ . }}
-      </div>
-      {{ end }}
-
       {{ with $item.Params.venue }}
       <div class="article-metadata mb-2">
         <span class="font-italic">{{ . | markdownify | emojify }}</span>
+      </div>
+      {{ end }}
+
+      {{ with $summary }}
+      <div class="article-style">
+        {{ . }}
       </div>
       {{ end }}
 

@@ -2,6 +2,7 @@
 title: 'Braking protons at the EIC: from invisible meson decay to new physics searches'
 summary: >-
   We investigate invisible final states in coherent exclusive electroproduction at the Electron-Ion Collider (EIC), where the characteristic signal is a forward proton with reduced energy and little additional detector activity. Focusing on neutral mesons with highly suppressed invisible Standard Model decays and on invisibly decaying gluon-coupled axion-like particles, we find that the EIC could improve existing bounds on invisible decays by up to four orders of magnitude while probing ALPs in the 0.1-2 GeV mass range.
+venue: 'Submitted for peer review'
 
 tags:
   - phenomenology

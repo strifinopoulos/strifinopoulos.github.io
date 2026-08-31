@@ -2,6 +2,7 @@
 title: 'Quantum Information at the Electron-Ion Collider'
 summary: >-
   We investigate quantum-information-theoretic observables in electron-proton scattering at the Electron-Ion Collider (EIC). Our analysis focuses on entanglement and magic, two complementary indicators of non-classicality in quantum states. We show that while unpolarized and longitudinally polarized beams yield unentangled separable outcomes, transverse beam polarization enables the generation of entangled and non-stabilizer states. This result holds for both elastic and deep inelastic electron-proton scattering in QED, with the deep inelastic regime linking the strength of quantum correlations to transversity parton distribution functions.
+venue: 'Submitted for peer review'
 
 tags:
   - qihep
