@@ -2,6 +2,7 @@
 title: 'The Dark Side of the Moon: Listening to Scalar-Induced Gravitational Waves'
 summary: >-
   The collapse of large-amplitude primordial curvature perturbations into planetary-mass primordial black holes generates a scalar-induced gravitational-wave background in the microhertz range that may be detectable by future Lunar Laser Ranging and Satellite Laser Ranging data. We derive projected constraints on the primordial black hole population from a null detection of such a background, including the impact of the electroweak phase transition, and discuss the connection to recent microlensing observations of the Andromeda Galaxy.
+venue: 'Physics Letters B 879 (2026) 140635'
 
 tags:
   - cosmology
