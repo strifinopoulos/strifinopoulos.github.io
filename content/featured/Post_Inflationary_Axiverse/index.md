@@ -2,7 +2,7 @@
 title: 'Large-Scale Structure Probes of the Post-Inflationary Axiverse'
 summary: >-
   We study the cosmology of axions in the post-inflationary scenario, where random initial conditions and the ensuing string-domain-wall network generate an isocurvature power spectrum. For subdominant axion fractions, the resulting white-noise fluctuations enhance the growth of structure in the dominant component. Combining ultraviolet luminosity functions of galaxies with Lyman-$\alpha$ and CMB data yields leading cosmological limits on post-inflationary axion dark matter, linking early-universe field dynamics to high-redshift structure formation.
-venue: 'Accepted by JCAP'
+venue: 'JCAP 06 (2026) 031'
 
 tags:
   - cosmology
